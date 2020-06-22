@@ -1,0 +1,6 @@
+.vscode/
+client/
+node_modules/
+
+.env
+test_task.db
